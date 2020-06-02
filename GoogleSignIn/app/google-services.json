@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "68145121608",
+    "firebase_url": "https://praxis-life-264605.firebaseio.com",
+    "project_id": "praxis-life-264605",
+    "storage_bucket": "praxis-life-264605.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68145121608:android:3a4153a3e1d86c35be4b7d",
+        "android_client_info": {
+          "package_name": "com.osseed.googlesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68145121608-o19cmll0eteb16fde2tlnoe98bvb2a3b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.osseed.googlesignin",
+            "certificate_hash": "99de0eeb7e441170969396d24b571aa04731aaf0"
+          }
+        },
+        {
+          "client_id": "68145121608-ar99j0jbrlicnhh5ao0r3jioog85pq5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdGlVCkhV8LODWbeTed2cgfHHFhsb4t9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68145121608-ar99j0jbrlicnhh5ao0r3jioog85pq5v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
